@@ -14,7 +14,7 @@ Pip (gerenciador de pacotes)
 
 ## Instalação
 
-Clone o repositório:
+```Clone o repositório:
 
 git clone https://github.com/ronald-02/store-api.git
 cd store-api
@@ -49,6 +49,10 @@ Acesse a documentação interativa:
 Swagger UI → http://localhost:8000/docs
 
 ReDoc → http://localhost:8000/redoc
+
+```
+
+
 
 # Endpoints
 
